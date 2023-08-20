@@ -6,4 +6,4 @@ My name is Sergiy Kozmyn and I’m a JavaScript developer. On this page you will
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@sergiy886)
 
 #### 💻 Technologies that I use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg)
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
